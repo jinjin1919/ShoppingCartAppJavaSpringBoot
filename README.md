@@ -15,7 +15,7 @@ Submitted by: **Jeanne Xu**
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://youtu.be/y3oVCmIuPtk' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jinjin1919/ShoppingCartAppJavaSpringBoot/blob/main/Spring%20boot%20E-Commerce%20App.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
